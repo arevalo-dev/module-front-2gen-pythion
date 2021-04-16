@@ -1,0 +1,30 @@
+/* * {
+  font-size: 25px;
+  color: red;
+} */
+
+section {
+  border: 2px solid green ;
+  padding: 10px;
+  font: mulish;
+  font-size: 50px;
+}
+
+h2 {
+  color: green;
+}
+
+.subtitle {
+  color: pink;
+}
+
+#nav a {
+  color: red;
+}
+
+
+
+
+a {
+  color: green;
+}
