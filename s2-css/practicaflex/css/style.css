@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} 
+
+body {
+  font: bold;
+  color: beige;
+}
+
+.son {
+  background-color: rgb(2, 19, 68);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vb;
+  padding: 60px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+  background-color: rgb(23, 68, 202);
+  width: 500px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+span {
+  color: blueviolet;
+}
+
+.end {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  text-align: justify;
+  font-size: 15px;
+}
